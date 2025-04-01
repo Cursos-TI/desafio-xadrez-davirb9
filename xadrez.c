@@ -50,9 +50,9 @@ for (int i = 0; i < 5; i++)
 
 break;
 
-
-case 2:
 // movimento da torre 
+case 2:
+
 
 printf("Movimentação da torre: \n");
 moverTorre(5);
